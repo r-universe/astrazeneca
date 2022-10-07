@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "maraca"]
+	path = maraca
+	url = https://github.com/astrazeneca/maraca
+	shallow = true
+	registered = true
 [submodule "Tendril"]
 	path = Tendril
 	url = https://github.com/astrazeneca/tendril

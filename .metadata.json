@@ -1,5 +1,9 @@
 [
   {
+    "package": "maraca",
+    "oncran": true
+  },
+  {
     "package": "Tendril",
     "oncran": true
   }
