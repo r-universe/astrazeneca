@@ -1,10 +1,10 @@
 [
   {
-    "package": "maraca",
+    "package": "Tendril",
     "oncran": true
   },
   {
-    "package": "Tendril",
+    "package": "maraca",
     "oncran": true
   }
 ]
