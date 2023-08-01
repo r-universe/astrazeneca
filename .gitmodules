@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "maraca"]
-	path = maraca
-	url = https://github.com/astrazeneca/maraca
 [submodule "Tendril"]
 	path = Tendril
 	url = https://github.com/astrazeneca/tendril
+[submodule "maraca"]
+	path = maraca
+	url = https://github.com/astrazeneca/maraca
