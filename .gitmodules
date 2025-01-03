@@ -5,6 +5,3 @@
 [submodule "Tendril"]
 	path = Tendril
 	url = https://github.com/astrazeneca/tendril
-[submodule "maraca"]
-	path = maraca
-	url = https://github.com/astrazeneca/maraca
